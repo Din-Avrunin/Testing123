@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'AztecIntance'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F0D7D3E33C54EB280B9FA0C182F1AC8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD9BFD7A8E9D4EA5849B1F0CEEADC8B0 }}
